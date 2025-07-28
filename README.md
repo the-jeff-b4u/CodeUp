@@ -7,39 +7,19 @@ CodeUp is a comprehensive educational platform aimed at providing a seamless exp
 
 ## DESCRIPTION
 
-The StudyNotion project is designed to streamline the educational process. It allows users to access a variety of educational materials, collaborate on projects, and interact with educators, enhancing the learning experience. StudyNotion employs a monolithic architecture and leverages a tech stack involving React.js, Node.js, Express.js, MongoDB, Cloudinary, and Tailwind CSS.
+The CodeUp project is designed to streamline the educational process. It allows users to access a variety of educational materials, collaborate on projects, and interact with educators, enhancing the learning experience. StudyNotion employs a monolithic architecture and leverages a tech stack involving React.js, Node.js, Express.js, MongoDB, Cloudinary, and Tailwind CSS.
 
 ## TECHNOLOGY STACK
 
-StudyNotion is built using the following technologies:
+CodeUp is built using the following technologies:
 
-### Frontend
-<a F="frontend"></a>
-<p>
-  <a href="https://www.w3schools.com/html/"> <img src="https://img.icons8.com/color/70/000000/html-5--v1.png" alt="HTML" /></a>
-  <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/70/000000/css3.png" alt="CSS" /></a>
-  <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/70/000000/javascript--v1.png" alt="JS" /></a>
-  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React.js" width="50" height="50" /></a>
-  </p>
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
 
-- **HTML**:HTML (HyperText Markup Language) is a skeleton of a website, structuring content with tags and elements.
-- **CSS**:CSS is a style sheet language used to style web pages.It enables the application of different styles based on media types and user preferences, enhancing user accessibility and readability
-- **JavaScript**:JavaScript is a programming language used to add interactivity to websites.
-- **React.js**:A JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes.
+Backend: Node.js, Express.js, MongoDB
 
-### Backend
-<a m="backend"></a>
-<p>
-<a href="https://www.w3schools.com/nodejs/"><img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="Node.js" width="50" height="50" /></a>
-<a href="https://www.javatpoint.com/expressjs-tutorial"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="50" height="50" /></a>
-<a href="https://www.mongodb.com/docs/"><img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="50" height="50" /></a>
-</p>
+Others: Cloudinary (media), Razorpay (payments), Nodemailer (email), JWT (auth)
 
-- **MongoDB**: A NoSQL database that provides high performance, high availability, and easy scalability. It stores data in flexible, JSON-like documents.
-- **Express.js**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine, enabling server-side scripting and running scripts server-side to produce dynamic web page content.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ARCHITECTURE DIAGRAM
 
@@ -174,16 +154,6 @@ In conclusion, this document outlines the architecture, features, and functional
 
 Throughout the development of the project, various achievements will be made in terms of implementing the desired functionalities and creating a user-friendly interface. However, there will be challenges to be faced during the development process, such as integrating different technologies and debugging errors.
 
-
-## How to Contribute?
-<a k="how-to-contribute"></a>
-<div>
-  <h3> Installation and Setup Guide </h3>
-</div
-
-<br>
-
-To get started with StudyNotion on your local machine, follow these steps:
 
 #### Prerequisites
 
@@ -350,10 +320,3 @@ Before you begin, ensure you have the following prerequisites installed:
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- Open Source Programs -->
 
-## LICENSE
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## ACKNOWLEDGEMENT
-
-We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop StudyNotion.
