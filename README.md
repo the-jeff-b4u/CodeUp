@@ -1,8 +1,8 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://study-notion-frontend-beige-delta.vercel.app/)
-##  Building StudyNotion: An EdTech Platform Powered by the MERN Stack [Medium Link](https://medium.com/@ayushsaha.work/building-studynotion-an-edtech-platform-powered-by-the-mern-stack-3e6589ac1c42)
-StudyNotion is a comprehensive educational platform aimed at providing a seamless experience for students and educators alike. It offers a range of features that facilitate learning, collaboration, and resource sharing.
 
-![StudyNotion Logo](https://res.cloudinary.com/dvpulu3cc/image/upload/v1702489710/Screenshot_2023-12-13_231558_dwyhv3.png)
+CodeUp is a comprehensive educational platform aimed at providing a seamless experience for students and educators alike. It offers a range of features that facilitate learning, collaboration, and resource sharing.
+
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/ded01c3e-a725-4d86-a46b-5871e7c733b4" />
+
 
 
 ## DESCRIPTION
